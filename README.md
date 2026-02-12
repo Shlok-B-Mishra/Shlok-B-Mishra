@@ -61,6 +61,15 @@ quote: "Keep Things Simple."
 
 <h2> 📊 &nbsp;My GitHub Stats</h2> <p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DShlok-B-Mishra%26show_icons%3Dtrue%26theme%3Dradical" alt="Stats Card" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DShlok-B-Mishra%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" /> </p>
 
-<h2> 🐍 &nbsp;Contribution Snake</h2> <p align="center"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Shlok-B-Mishra/Shlok-B-Mishra/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
+---
+
+## 🐍 &nbsp;Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shlok-B-Mishra/Shlok-B-Mishra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shlok-B-Mishra/Shlok-B-Mishra/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Shlok-B-Mishra/Shlok-B-Mishra/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
