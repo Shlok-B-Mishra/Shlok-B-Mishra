@@ -46,7 +46,7 @@ technical_background:
 currently_learning: ["Advanced Motion Design", "System Architecture"]
 2026 Goals: ["Contribute to 10+ Major Open Source Projects", "Master 3D Web Graphics"]
 hobbies: ["Coding", "Coffee", "Cinema", "Game", "Art"]
-quote: "Keep Things Simple"
+quote: "Keep Things Simple."
 ```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -55,7 +55,7 @@ quote: "Keep Things Simple"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/Shlok-B-Mishra/Shlok-B-Mishra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 📊 My GitHub Stats
 <p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dalaukikmishra%26show_icons%3Dtrue%26theme%3Dradical" alt="Stats Card" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dalaukikmishra%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" /> </p>
