@@ -84,7 +84,12 @@ quote: "Keep Things Simple."
 
 ---
 
-<h2> 📊 &nbsp;My GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shlok-B-Mishra&show_icons=true&theme=radical" alt="Stats Card" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlok-B-Mishra&layout=compact&theme=radical" alt="Top Languages" /> </p>
+<h2> 📊 &nbsp;My GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shlok-B-Mishra&theme=radical" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shlok-B-Mishra&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 🐍  Contribution Snake
 <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shlok-B-Mishra/Shlok-B-Mishra/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shlok-B-Mishra/Shlok-B-Mishra/output/github-contribution-grid-snake.svg"> <img alt="github-snake" src="https://raw.githubusercontent.com/Shlok-B-Mishra/Shlok-B-Mishra/output/github-contribution-grid-snake.svg"> </picture> </p>
