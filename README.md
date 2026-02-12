@@ -55,7 +55,7 @@ quote: "Keep Things Simple"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/shlok-b-mishra/shlok-b-mishra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Shlok-B-Mishra/Shlok-B-Mishra/blob/output/github-contribution-grid-snake.svg)
 
 📊 My GitHub Stats
 <p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dalaukikmishra%26show_icons%3Dtrue%26theme%3Dradical" alt="Stats Card" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dalaukikmishra%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" /> </p>
