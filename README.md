@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat! 💬
+  Let's connect and have a Chat! 💬
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1jYzJwcTdndm4wdjl2bjc0bW9maGZmbWtlZXV1YmI0NHQyZjk1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fA7rLtaJDIWEzU57CT/giphy.gif" width="600" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJxaGhuenZ1NzJuaWZjdHBveWg0ZXoza29vM3ZkdXFheW12bTQ3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="auto">
 </p>
 
 ---
