@@ -57,5 +57,3 @@ quote: "Keep Things Simple."
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-📊 My GitHub Stats
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dalaukikmishra%26show_icons%3Dtrue%26theme%3Dradical" alt="Stats Card" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dalaukikmishra%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" /> </p>
