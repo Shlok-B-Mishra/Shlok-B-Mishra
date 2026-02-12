@@ -43,11 +43,11 @@ technical_background:
   [
     "Design Systems Architect",
     "Responsive Web Design Specialist",
-    "JavaScript & React Developer",
+    "JavaScript & NextJs Developer",
   ]
 
-currently_learning: ["Advanced Motion Design", "System Architecture"]
-2026 Goals: ["Contribute to 10+ Major Projects", "Master 3D Web Graphics"]
+currently_learning: ["AIML", "System Architecture"]
+Goals: ["Contribute to 10+ Major Projects", "AI Scientist"]
 hobbies: ["Coding", "Coffee", "Cinema", "Gaming", "Art"]
 quote: "Keep Things Simple."
 
